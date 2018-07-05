@@ -1,0 +1,72 @@
+#main{
+    width: 90%;
+    margin-left: 5%;
+    float: left;
+    background: white;
+}
+body{
+    background: red;
+}
+#logo{
+    width: 70%;
+    margin-left: 15%;
+    float: left;
+}
+#logo img{
+    width: 100%;
+}
+#titulo {
+    font-size: 35px;
+    width: 100%; 
+    float: left;
+}
+#titulo h1{
+    width: 500px;
+    margin:20px auto; 
+}
+#introduccion{
+    width: 90%; 
+    float: left;
+    padding: 2%;
+    border: 2px solid black;
+    margin: 2%;
+    border-radius: 20px; 
+    }
+#sinopsis{
+    width: 80%; 
+    padding: 2% 3%;
+    float: left;
+}
+#personajes{
+    width: 80%;
+    float: left;
+    padding: 2%;
+}
+iframe{
+    width: 100%;
+}
+#premios{
+    width: 90%;
+    padding: 0% 5%;
+    float: left;
+}
+#comentario {
+    width: 90%;
+    padding: 5%;
+    float: left;
+    
+}
+table{
+    width: 100%;
+    background-color: #efebeb;
+    color: #000000;
+    border-width: 1px;
+    border-color: #bbbbbb;
+    border-style: solid;
+    color: #000000;
+    border-collapse: collapse;
+}
+table td, table th{
+    border: 2px solid #bbbbbb;
+    text-align: center;
+}
